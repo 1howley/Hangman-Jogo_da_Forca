@@ -24,6 +24,6 @@ você seleciona entre fácil, médio ou difícil // digita os números de letras
 
 COISAS PARA FAZER:
 
-1 - deixe o código limpo
-2 - atualize a forma de comparação e salve letras
+1 - deixe o código otimizado
+2 - atualize a forma de comparação e de armazenamento das letras
 3 - atualize a interface
