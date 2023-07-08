@@ -1,6 +1,6 @@
 # Hangman-Jogo_da_Forca
 
-This game was made on C++, for a school work of programming logic.
+This game was made on C, for a school work of programming logic.
 
 HOW TO PLAY: 
 
@@ -15,7 +15,7 @@ THINGS TO DO:
 
 //PORTUGUES//
 
-Este jogo foi feito em C++, para um trabalho escolar de lógica da programação.
+Este jogo foi feito em C, para um trabalho escolar de lógica da programação.
 
 COMO JOGAR:
 
